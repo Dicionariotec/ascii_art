@@ -1,0 +1,24 @@
+pre {
+    font-family: 'Courier New', 'monospace';
+    margin: 1rem auto;
+    font-size: 1pt;
+    line-height: 1pt;
+    letter-spacing: 1pt;
+}
+
+* {
+    margin: 0;
+}
+
+body {
+    padding: 2rem 3rem;
+    font-family: 'VT323', monospace;
+    line-height: 3rem;
+    font-size: 18px;
+}
+
+header {
+    display: flex;
+    align-items: baseline;
+    font-size: 18px;
+}
